@@ -31,7 +31,7 @@ If you use this code or data, please cite the original authors:
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/karyotyping-pipeline.git
+    git clone https://github.com/yourusername/AI-Assisted-Chromosomes-Karyotyping.git
     cd karyotyping-pipeline
     ```
 2.  Install dependencies:
