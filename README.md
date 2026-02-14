@@ -112,3 +112,5 @@ Centromere index computation
 Hybrid rule-based + ML grouping
 
 Improved homolog pairing strategy
+
+### email : mmmoeez@gmail.com
