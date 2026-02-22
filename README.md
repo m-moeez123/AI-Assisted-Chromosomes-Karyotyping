@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.14%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 An end-to-end Deep Learning pipeline for automated chromosome karyotyping.
 This project implements a novel **"Triad of Features"** approach (Geometry, Scale, Texture) to classify human chromosomes with high precision, overcoming the limitations of traditional shape-only analysis.
